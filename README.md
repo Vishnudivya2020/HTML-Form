@@ -6,7 +6,7 @@ A simple Survey Form built with HTML, CSS, Bootstrap, and Font Awesome.
 
 * Name & Email input
 
-*⭐ Experience rating
+* ⭐ Experience rating
 
 * Satisfaction & Likelihood scales
 
@@ -19,14 +19,9 @@ A simple Survey Form built with HTML, CSS, Bootstrap, and Font Awesome.
 * HTML5
 * Bootstrap 5
 * Font Awesome
-
+  
 🔧 Usage
- 1).Open index.html in your browser.
+* Open index.html in your browser.
+* Fill the form and click Submit.
 
- 2).Fill the form and click Submit.
-
- ✍️ Practice project for forms & Bootstrap styling.
-
-Open index.html in your browser.
-
-Fill the form and click Submit.
+✍️ Practice project for forms & Bootstrap styling.
